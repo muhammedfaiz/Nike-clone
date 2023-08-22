@@ -1,5 +1,5 @@
 import { arrowRight } from "../assets/icons"
-import Button from "../components/button"
+import Button from "../components/Button"
 import { shoes,statistics } from "../constants"
 import { bigShoe1 } from "../assets/images"
 import ShoeCard from "../components/ShoeCard"
